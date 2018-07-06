@@ -12,6 +12,7 @@
 * User can offer a shared space specified by tags
 ### Service Prodicer
 * User can view a list of spaces and connect with a particular space provider
+* User can scroll through a feed of spaces to be ~ i n s p i r e d ~ by location
 
 ## Additional Separate User Stories
 * Transactions can be held in app
